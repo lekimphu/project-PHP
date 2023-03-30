@@ -1,0 +1,8 @@
+span {
+    color: blue;
+    font-weight: bold;
+}
+
+span:hover {
+    color: green;
+}
